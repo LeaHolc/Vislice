@@ -3,6 +3,7 @@
 ## Avtorji:
 
 * Lea Holc
+* Anja Petković
 
 ## Opis
 
