@@ -66,7 +66,7 @@ class Igra:
                 return NAPACNA_CRKA
 
 
-with open('Vislice/besede.txt', 'r', encoding='utf-8') as f:
+with open('Vislice_1/besede.txt', 'r', encoding='utf-8') as f:
     bazen_besed = [beseda.strip().upper() for beseda in f.readlines()]   
 
 def nova_igra():
