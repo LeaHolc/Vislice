@@ -3,6 +3,7 @@
 ## Avtorji:
 
 * Lea Holc
+* Adi Smolar
 
 ## Opis
 
